@@ -1,0 +1,2 @@
+<?php
+	// Overall application configuration
